@@ -1,0 +1,4 @@
+<resources>
+    <string name="retry">Retry</string>
+    <string name="error_text">Failed to load data</string>
+</resources>

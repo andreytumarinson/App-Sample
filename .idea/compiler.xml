@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="AppSample.ads-ui" target="11" />
+      <module name="AppSample.app" target="11" />
+      <module name="AppSample.common-ui" target="11" />
+      <module name="AppSample.movies-ui" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

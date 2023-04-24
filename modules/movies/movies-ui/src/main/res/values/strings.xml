@@ -1,0 +1,7 @@
+<resources>
+    <string name="movies_list_title">Top Movies</string>
+    <string name="movie_info_title">Movie Information</string>
+
+    <string name="rating_label">Rating: %s</string>
+    <string name="dollar_label">$ %s</string>
+</resources>

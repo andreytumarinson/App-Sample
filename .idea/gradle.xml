@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/modules/app-di" />
+            <option value="$PROJECT_DIR$/modules/common/common-api" />
+            <option value="$PROJECT_DIR$/modules/common/common-di" />
+            <option value="$PROJECT_DIR$/modules/common/common-domain" />
+            <option value="$PROJECT_DIR$/modules/common/common-models" />
+            <option value="$PROJECT_DIR$/modules/common/common-ui" />
+            <option value="$PROJECT_DIR$/modules/credentials-provider" />
+            <option value="$PROJECT_DIR$/modules/movies/movies" />
+            <option value="$PROJECT_DIR$/modules/movies/movies-ui" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

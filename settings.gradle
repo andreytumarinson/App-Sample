@@ -1,0 +1,25 @@
+rootProject.name='AppSample'
+
+include ':app'
+include ':app-di'
+include ':common-di'
+include ':common-domain'
+include ':common-api'
+include ':common-ui'
+include ':common-models'
+include ':credentials-provider'
+include ':movies'
+include ':movies-ui'
+
+project(':app-di').projectDir = file("${modulesPath}/app-di")
+project(':common-ui').projectDir = file("${commonModulesPath}/common-ui")
+project(':common-di').projectDir = file("${commonModulesPath}/common-di")
+project(':common-domain').projectDir = file("${commonModulesPath}/common-domain")
+project(':common-api').projectDir = file("${commonModulesPath}/common-api")
+project(':common-models').projectDir = file("${commonModulesPath}/common-models")
+project(':credentials-provider').projectDir = file("${modulesPath}/credentials-provider")
+project(':movies').projectDir = file("${moviesModulesPath}/movies")
+project(':movies-ui').projectDir = file("${moviesModulesPath}/movies-ui")
+
+
+

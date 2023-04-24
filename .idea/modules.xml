@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AppSample.iml" filepath="$PROJECT_DIR$/.idea/modules/AppSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppSample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-di/AppSample.app-di.iml" filepath="$PROJECT_DIR$/.idea/modules/app-di/AppSample.app-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppSample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppSample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppSample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppSample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AppSample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AppSample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-api/AppSample.common-api.iml" filepath="$PROJECT_DIR$/.idea/modules/common-api/AppSample.common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-domain/AppSample.common-domain.iml" filepath="$PROJECT_DIR$/.idea/modules/common-domain/AppSample.common-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-models/AppSample.common-models.iml" filepath="$PROJECT_DIR$/.idea/modules/common-models/AppSample.common-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-ui/AppSample.common-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/common-ui/AppSample.common-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/credentials-provider/AppSample.credentials-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/credentials-provider/AppSample.credentials-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies/AppSample.movies.iml" filepath="$PROJECT_DIR$/.idea/modules/movies/AppSample.movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies-ui/AppSample.movies-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/movies-ui/AppSample.movies-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/app-di/app-di.AppSample.app-di.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/app-di/app-di.AppSample.app-di.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/app-di/app-di.AppSample.app-di.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/app-di/app-di.AppSample.app-di.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/app-di/app-di.AppSample.app-di.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/app-di/app-di.AppSample.app-di.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-api/common-api.AppSample.common-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-api/common-api.AppSample.common-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-api/common-api.AppSample.common-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-api/common-api.AppSample.common-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-domain/common-domain.AppSample.common-domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-domain/common-domain.AppSample.common-domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-domain/common-domain.AppSample.common-domain.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-domain/common-domain.AppSample.common-domain.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-models/common-models.AppSample.common-models.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-models/common-models.AppSample.common-models.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-models/common-models.AppSample.common-models.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-models/common-models.AppSample.common-models.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-ui/common-ui.AppSample.common-ui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-ui/common-ui.AppSample.common-ui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-ui/common-ui.AppSample.common-ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-ui/common-ui.AppSample.common-ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-ui/common-ui.AppSample.common-ui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-ui/common-ui.AppSample.common-ui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-di/common.AppSample.common-di.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-di/common.AppSample.common-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-di/common.AppSample.common-di.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-di/common.AppSample.common-di.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/common/common-di/common.AppSample.common-di.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/common/common-di/common.AppSample.common-di.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/credentials-provider/credentials-provider.AppSample.credentials-provider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/credentials-provider/credentials-provider.AppSample.credentials-provider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/credentials-provider/credentials-provider.AppSample.credentials-provider.test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/credentials-provider/credentials-provider.AppSample.credentials-provider.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/movies/movies-ui/movies-ui.AppSample.movies-ui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/movies/movies-ui/movies-ui.AppSample.movies-ui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/movies/movies-ui/movies-ui.AppSample.movies-ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/movies/movies-ui/movies-ui.AppSample.movies-ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/movies/movies-ui/movies-ui.AppSample.movies-ui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/movies/movies-ui/movies-ui.AppSample.movies-ui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/movies/movies/movies.AppSample.movies.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/movies/movies/movies.AppSample.movies.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/movies/movies/movies.AppSample.movies.main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/movies/movies/movies.AppSample.movies.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/movies/movies/movies.AppSample.movies.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/movies/movies/movies.AppSample.movies.unitTest.iml" />
+    </modules>
+  </component>
+</project>
